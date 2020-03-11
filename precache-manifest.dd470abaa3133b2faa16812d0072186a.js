@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "063be7dacf447a811f1ed9b513685f77",
+    "revision": "d584d1cf67e1c6949314a7d86710126c",
     "url": "/formula1/index.html"
   },
   {
-    "revision": "d967d962fc4eabf01d80",
+    "revision": "825960b6aa87eeadebfa",
     "url": "/formula1/static/css/main.af63dcd3.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/formula1/static/js/2.350eac61.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d967d962fc4eabf01d80",
-    "url": "/formula1/static/js/main.985a0b32.chunk.js"
+    "revision": "825960b6aa87eeadebfa",
+    "url": "/formula1/static/js/main.49fbef20.chunk.js"
   },
   {
     "revision": "a6ce7d06f0a96ab4f253",
