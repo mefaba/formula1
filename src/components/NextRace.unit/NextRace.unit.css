@@ -1,0 +1,28 @@
+.nextrace-unit{
+    display: flex;
+    height: 200px;
+    margin-top: 1rem;
+    justify-content: space-around;
+    
+}
+
+.nextrace-box{
+    display: flex;
+    width: 22%;
+    /* height: 100px; */
+    background: rgb(165, 159, 152);
+    border-radius: 4px;
+
+}
+
+.nextrace-box:nth-child(2) {
+    width: 50%;
+    background:#AA3939;
+}
+
+.race-date{
+    margin: auto;
+    font-size: 2rem;
+    text-align: center;
+    /* border: 2px black */;
+}
