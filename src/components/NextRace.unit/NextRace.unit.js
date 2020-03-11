@@ -16,7 +16,7 @@ const NextRaceUnit = () => {
         })
 
     useEffect( () => {
-        fetch('http://ergast.com/api/f1/2020/next.json')
+        fetch('https://ergast.com/api/f1/2020/next.json')
         .then((response) => {
         /* console.log(response.json()) */
             return response.json();
