@@ -1,0 +1,38 @@
+.car-animation {
+    height: 50px;
+    position: relative;
+    animation: mymove 8s ease-in-out forwards;
+    box-sizing: border-box;
+}
+
+
+svg {
+    box-sizing: border-box;
+    height: 50px;
+}
+
+#right-wheel, 
+#left-wheel {
+    animation: wheel 8s ease-in-out forwards;
+    transform-origin: center;
+    transform-box: fill-box;
+}
+
+
+@keyframes wheel{
+    from{
+        transform: rotateZ(0deg);
+    }
+    to{
+        transform: rotateZ(360deg);
+    }
+}
+
+@keyframes mymove {
+    from {left: 0px;}
+    to {left: 70vw;}
+  }
+
+
+    
+    

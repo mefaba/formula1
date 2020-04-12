@@ -1,7 +1,7 @@
 .nextrace-unit{
     display: flex;
     height: 200px;
-    margin-top: 1rem;
+/*     margin-top: 1rem; */
     justify-content: space-around;
     
 }
@@ -10,14 +10,16 @@
     display: flex;
     width: 22%;
     /* height: 100px; */
-    background: rgb(165, 159, 152);
+    margin-top: 2rem;
+    background: rgba(255, 255, 255, 0.60);
     border-radius: 4px;
+    /* box-shadow: 5px 5px 5px 0px rgb(223, 207, 207); */
 
 }
 
 .nextrace-box:nth-child(2) {
     width: 50%;
-    background:#AA3939;
+    background:rgba(170, 57, 57, 0.60);
 }
 
 .race-date{
